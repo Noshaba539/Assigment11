@@ -1,0 +1,44 @@
+.quizApp
+{
+  
+    display: flex;
+    justify-content: center;
+    background-color: #FA8072;
+
+    
+}
+.questionbody
+{
+    border: 8px solid #DC143C;
+    background-color: #ffffff;
+    border-radius: 50px;
+    
+
+}
+
+.heading
+{
+    text-align: center;
+    padding-top: 20px;
+    color: #DC143C;
+}
+.questions
+{
+    margin-left: 80px;
+    font-size: 1em;
+}
+
+.btndiv
+{
+    padding-top: 20px;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+}
+.checkbtn
+{
+    background-color:#DC143C ;
+    color: #ffffff;
+    padding: 10px;
+    width: 90px;
+}
